@@ -1,14 +1,14 @@
 import React from 'react';
 import {useState} from "react";
-import { close, logo, menu } from '../assets'
-import {navLinks} from "../constants";
+import { close, logo, menu } from '../assets/index.js'
+import {navLinks} from "../constants/index.js";
 
 const Navbar = () => {
     const [toggle, setToggle] = useState(false);
     const [active, setActive] = useState("Home");
 
     return (
-        <nav className="navbar w-full flex py-6 justify-between items-center">
+        <nav className="w-full flex py-6 justify-between items-center navbar">
             <img src={logo} alt="hoobank" className="w-[124px] h-[32px]" />
             <ul className="list-none sm:flex hidden justify-end items-center flex-1">
                 {navLinks.map((nav, index) => (
