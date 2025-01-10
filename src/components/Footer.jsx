@@ -3,7 +3,7 @@ import {logo} from "../assets";
 import {footerLinks, socialMedia} from "../constants";
 
 const Footer = () => (
-    <section className={`${styles.flexCenter} ${styles.paddingY} flex-col mx-20`}>
+    <section className={`${styles.flexCenter} sm:py-10 pt-6 pb-4 flex-col mx-20`}>
         <div className={`${styles.flexStart} md:flex-row flex-col mb-8 w-full`}>
             <div className="flex flex-1 flex-col justify-start mr-10">
                 <img src={logo} alt="logo" className="w-[266px] h-[72px] object-contain"/>
