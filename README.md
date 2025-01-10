@@ -24,6 +24,14 @@
 
 ## What I Learned
 
+<ul>
+<li><b>React Component Reusability:</b> Improved skills in creating reusable components, enhancing code maintainability.</li>
+<li><b>Tailwind CSS:</b> Improved skills in using utility classes to style components efficiently.</li>
+<li><b>Vite Integration:</b> Learned how to set up and configure Vite for a React project to improve development speed and build performance.</li>
+<li><b>Responsive Design Principles:</b> Applied responsive design techniques to ensure the website looks great on all devices.</li>
+<li><b>State Management in React:</b> Enhanced understanding of state management and how to handle component states effectively.</li>
+</ul>
+
 ## Screenshots
 
 <img src="public/screencapture1.png" alt="image" /> 
