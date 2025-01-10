@@ -6,6 +6,14 @@
 
 ## Core Features and Functionalities
 
+<ul>
+<li><b>Responsive Design:</b> Adapts to different screen sizes for an optimal viewing experience on desktops, tablets, and mobile devices.</li>
+<li><b></b></li>
+<li><b></b></li>
+<li><b></b></li>
+<li><b></b></li>
+</ul>
+
 ## Technologies Used
 
 React
