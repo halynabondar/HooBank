@@ -8,8 +8,7 @@
 
 <ul>
 <li><b>Responsive Design:</b> Adapts to different screen sizes for an optimal viewing experience on desktops, tablets, and mobile devices.</li>
-<li><b>Modern UI Components:</b> Utilizes Tailwind CSS for styling, providing a sleek and modern look.
-</li>
+<li><b>Modern UI Components:</b> Utilizes Tailwind CSS for styling, providing a sleek and modern look.</li>
 <li><b>Fast Performance:</b> Built with Vite for fast development and optimized build processes.</li>
 <li><b>Reusable Components:</b> Modular approach using React.js to create reusable and maintainable components.</li>
 <li><b>Interactive Elements:</b> Engaging animations and interactive elements to enhance user experience.</li>
@@ -17,9 +16,11 @@
 
 ## Technologies Used
 
-React
-Vite
-Tailwind
+<ul>
+<li><b>React:</b> JavaScript library for building user interfaces.</li>
+<li><b>Vite:</b>  Next-generation frontend tooling for fast development and production builds.</li>
+<li><b>Tailwind CSS:</b> Utility-first CSS framework for rapid UI development.</li>
+</ul>
 
 ## What I Learned
 
